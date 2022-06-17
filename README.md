@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **Vini-ara/Vini-ara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Computer science student at Universidade de Brasília.
+
+❤️ Passionate Software Developer having lots of fun coding
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vini-ara&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&hide=issues,contribs" alt="Vini ara's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vini-ara&layout=compact&theme=material-palenight&hide_border=true" alt="Vini ara's githubs stats"/> 
